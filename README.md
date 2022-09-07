@@ -9,3 +9,5 @@ To develop this web application, I use 3 main tools
 * Vue.js (https://vuejs.org/) 
 * PostgreSQL (https://www.postgresql.org/)
 * NestJS (https://nestjs.com/)
+### Architecture Overview :globe_with_meridians:
+![Screenshot 2022-09-07 143649](https://user-images.githubusercontent.com/99718534/188817925-2463b326-ac74-4a67-9e15-2907b112ceca.png)
