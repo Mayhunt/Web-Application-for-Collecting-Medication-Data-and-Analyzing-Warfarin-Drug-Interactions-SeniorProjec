@@ -6,4 +6,4 @@ Polypharmacy and drug interaction issues are becoming more common during medicat
 It is also similar to the Warfarin notebook that patients must bring with them to each follow-up examination. It will also be able to notify users of drug interactions with Warfarin. In addition, the application can manage drug list information, allergy drug lists, and record actual measured and expected INR values, which are displayed in a simple dashboard format. This goal of this application is to solve the problems mentioned above.
 ## :green_book: Development Tools
 To develop this web application, I use 3 main tools
-*[Vue.js] (https://vuejs.org/) 
+* [Vue.js] (https://vuejs.org/) 
